@@ -1,0 +1,63 @@
+
+
+/* set font family and color for the whole page */
+body {
+  font-family: Arial, sans-serif;
+  color:white;
+}
+
+/* style the navigation bar */
+nav {
+  background-color:black;
+  padding: 10px;
+}
+
+/* style the heading in the navigation bar */
+nav h1 {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+/* style the main section */
+main {
+  padding: 20px;
+  
+  
+}
+
+/* style the section with id="view2" */
+#view2 {
+  background-color:darkblue;
+  padding: 1rem;
+  margin-top: 200px;
+  margin-left:200px ;
+  
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
+
+/* add a class to the section with id="view2" */
+/* .view2.darkblue {
+  background-color:darkblue;
+  /* color:darkblue; */
+
+
+/* style the heading inside the black div */
+.black h2 {
+  font-size: 2rem;
+  margin: 0;
+  text-align: center;
+  color:white;
+
+
+}
+
+.purple{
+  background-color:purple;
+}
+/* .black{
+  background-color: #000;
+} */
